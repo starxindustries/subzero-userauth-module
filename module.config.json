@@ -39,6 +39,34 @@
         {
             "from": "ui",
             "to": "/components/ui"
+        },
+        {
+            "from": "auth-confirm",
+            "to": "/app/auth/confirm"
+        },
+        {
+            "from": "auth-error",
+            "to": "/app/auth/error"
+        },
+        {
+            "from": "auth-forgot-password",
+            "to": "/app/auth/forgot-password"
+        },
+        {
+            "from": "auth-login",
+            "to": "/app/auth/login"
+        },
+        {
+            "from": "auth-sign-up",
+            "to": "/app/auth/signup"
+        },
+        {
+            "from": "auth-sign-up-success",
+            "to": "/app/auth/sign-up-success"
+        },
+        {
+            "from": "auth-update-password",
+            "to": "/app/auth/update-password"
         }
     ],
     "dependencies": [
