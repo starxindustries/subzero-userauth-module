@@ -13,6 +13,10 @@
             "to": "/app"
         },
         {
+            "from": "root",
+            "to": "/"
+        },
+        {
             "from": "auth",
             "to": "/app/auth"
         },
