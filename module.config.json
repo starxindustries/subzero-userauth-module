@@ -17,10 +17,6 @@
             "to": "/"
         },
         {
-            "from": "auth",
-            "to": "/app/auth"
-        },
-        {
             "from": "lib",
             "to": "/lib"
         },
